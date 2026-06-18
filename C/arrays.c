@@ -4,6 +4,7 @@
 
 // const int SIZE = 5; // compiler statement. Complier will go around replace SIZE with 5 
 
+
 int main()
 {
     int nums[SIZE];
